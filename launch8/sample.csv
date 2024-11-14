@@ -1,0 +1,6 @@
+Transactions,items
+T1,{Bread,Milk,Egg}
+T2,{Bread,Milk}
+T3,{Milk,Egg}
+T4,{Bread,Egg}
+T5,{Bread,Milk,Egg,Butter}

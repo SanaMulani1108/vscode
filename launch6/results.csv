@@ -1,0 +1,13 @@
+Sorted Data
+27,30,34,40,41,46,49,50,51,52,55,59,62,62,75,100,
+Summary
+Min,27
+Q1,40.5
+Median,50.5
+Q3,60.5
+Max,100
+IQR,20
+Lower Bound,10.5
+Upper Bound,90.5
+Outliers
+100,
