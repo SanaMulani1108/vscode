@@ -93,3 +93,26 @@ int main() {
 
     return 0;
 }
+
+
+// correlation refers to the measure of the relationship or association between two items or entities. A high positive correlation (close to +1) indicates that as one variable increases, the other tends to increase as well. A high negative correlation (close to -1) suggests that one variable decreases as the other increases. No correlation (close to 0) implies no relationship between the variables.
+
+// The formula used here is:
+
+// C(A,B)=P(A∩B)/ P(A)⋅P(B)
+
+// ​
+ 
+// where:
+
+// C(A,B) is the correlation coefficient between items 
+// P(A∩B) is the probability of both items occurring together,
+// P(A) and P(B) are the probabilities of items 
+// A and B occurring individually.
+
+
+//  correlation helps identify relationships between different variables or items, allowing us to understand patterns and dependencies. A positive correlation indicates that two items tend to increase together, while a negative correlation means one decreases as the other increases. No correlation implies no discernible relationship between the items.
+
+
+//  linearcorrelation
+//  correlation(sttribu)
