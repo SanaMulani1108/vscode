@@ -1,0 +1,12 @@
+
+--- Rule Support and Confidence ---
+Support: 0.5, Confidence: 1
+
+--- Rule Support and Confidence ---
+Support: 0, Confidence: 0
+
+--- Rule Support and Confidence ---
+Support: 0.25, Confidence: 0.5
+
+--- Rule Support and Confidence ---
+Support: 0, Confidence: 0
