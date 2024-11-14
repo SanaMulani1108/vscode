@@ -92,3 +92,15 @@ int main() {
 
     return 0;
 }
+
+// In data mining, TWeight (Total Weight) and DWeight (Distribution Weight) are measures that provide insights into the proportion of each product category (e.g., Smartphones, Laptops) relative to the total quantity or the total quantity within each region.
+
+// TWeight (Total Weight): This is the percentage of the product's quantity relative to the total quantity of that product across all regions. It shows how a region's sales of a product contribute to the overall sales of that product.
+
+// Formula:
+// TWeight= Product Count in Region/Total Product Count (across all regions) ×100
+
+// DWeight (Distribution Weight): This is the percentage of the product's quantity relative to the total quantity in that specific region. It shows how the sales of a product are distributed within a region.
+
+// Formula:
+// TWeight= Product Count in Region/Total Count in region) ×100
